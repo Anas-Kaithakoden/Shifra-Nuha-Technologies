@@ -1,0 +1,29 @@
+<svg width="340" height="160" viewBox="0 0 340 160" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Shifra Nuha Technologies — Vertical Logo</title>
+  <desc>S·N icon mark stacked above company name and tagline</desc>
+  <!-- Icon mark — centered -->
+  <rect x="130" y="0" width="80" height="80" rx="15" fill="#1e3a8a"/>
+  <!-- S-stroke -->
+  <path d="M 12.8,-20 C 12.8,-20 5.4,-12.8 -3.6,-9.1 C -12.8,-5.5 -16.4,1.8 -12.8,9.1 C -9.1,16.4 0,20 9.1,18.2"
+        transform="translate(170,40)"
+        fill="none" stroke="white" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- N left pillar -->
+  <line x1="177.3" y1="20" x2="177.3" y2="60" stroke="white" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- N diagonal -->
+  <line x1="177.3" y1="20" x2="195.5" y2="60" stroke="white" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- N right pillar -->
+  <line x1="195.5" y1="20" x2="195.5" y2="60" stroke="white" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- Accent nodes -->
+  <circle cx="166.4" cy="30.9" r="3.1" fill="#3b82f6"/>
+  <circle cx="177.3" cy="20" r="3.1" fill="#3b82f6"/>
+  <!-- Company name — centered -->
+  <text x="170" y="108" text-anchor="middle"
+        font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="19" font-weight="700" letter-spacing="0.5" fill="#0f172a">SHIFRA NUHA TECHNOLOGIES</text>
+  <!-- Divider -->
+  <line x1="50" y1="118" x2="290" y2="118" stroke="#e2e8f0" stroke-width="0.75"/>
+  <!-- Tagline -->
+  <text x="170" y="132" text-anchor="middle"
+        font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="9" font-weight="400" letter-spacing="2.5" fill="#64748b">AI AUTOMATION &amp; INTELLIGENT SYSTEMS</text>
+</svg>

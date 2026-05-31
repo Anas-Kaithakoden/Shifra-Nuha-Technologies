@@ -1,0 +1,32 @@
+<svg width="480" height="72" viewBox="0 0 480 72" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Shifra Nuha Technologies — Monochrome Logo</title>
+  <desc>Single-colour black version, safe for single-ink print, emboss, and engraving</desc>
+  <!-- Icon mark — flat black -->
+  <rect x="0" y="0" width="72" height="72" rx="13" fill="#0f172a"/>
+  <!-- S-stroke -->
+  <path d="M 11.5,-18 C 11.5,-18 4.9,-11.5 -3.3,-8.2 C -11.5,-4.9 -14.7,1.6 -11.5,8.2 C -8.2,14.7 0,18 8.2,16.3"
+        transform="translate(36,36)"
+        fill="none" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- N left pillar -->
+  <line x1="42.5" y1="18" x2="42.5" y2="54" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <!-- N diagonal -->
+  <line x1="42.5" y1="18" x2="58.9" y2="54" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <!-- N right pillar -->
+  <line x1="58.9" y1="18" x2="58.9" y2="54" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <!-- Accent nodes — white in mono version -->
+  <circle cx="32.7" cy="27.8" r="2.8" fill="white"/>
+  <circle cx="42.5" cy="18" r="2.8" fill="white"/>
+  <!-- Company name — black -->
+  <text x="90" y="26"
+        font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="22" font-weight="700" letter-spacing="-0.5" fill="#0f172a">SHIFRA NUHA</text>
+  <text x="90" y="50"
+        font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="22" font-weight="300" letter-spacing="3.5" fill="#0f172a">TECHNOLOGIES</text>
+  <!-- Divider -->
+  <line x1="90" y1="58" x2="460" y2="58" stroke="#cbd5e1" stroke-width="0.75"/>
+  <!-- Tagline -->
+  <text x="90" y="69"
+        font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="9" font-weight="400" letter-spacing="2" fill="#94a3b8">AI AUTOMATION &amp; INTELLIGENT SYSTEMS</text>
+</svg>

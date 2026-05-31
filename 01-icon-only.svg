@@ -1,0 +1,19 @@
+<svg width="88" height="88" viewBox="0 0 88 88" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Shifra Nuha Technologies — Icon Mark</title>
+  <desc>S·N monogram mark on deep navy rounded square</desc>
+  <!-- Outer rounded square -->
+  <rect x="0" y="0" width="88" height="88" rx="16" fill="#1e3a8a"/>
+  <!-- S-stroke -->
+  <path d="M 58,-22 C 58,-22 50,-14 40,-10 C 30,-6 26,2 30,10 C 34,18 44,22 54,20"
+        transform="translate(44,44)"
+        fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- N left pillar -->
+  <line x1="52" y1="22" x2="52" y2="66" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  <!-- N diagonal -->
+  <line x1="52" y1="22" x2="72" y2="66" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  <!-- N right pillar -->
+  <line x1="72" y1="22" x2="72" y2="66" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  <!-- Accent nodes -->
+  <circle cx="40" cy="34" r="3.5" fill="#3b82f6"/>
+  <circle cx="52" cy="22" r="3.5" fill="#3b82f6"/>
+</svg>
